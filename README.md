@@ -24,10 +24,10 @@ PROBLEM STATEMENT
  
  4.Extracted data contain 5 column named "CLOSE", "VOLUME", "OPEN", "HIGH", "LOW"  along with date. 
  
- 5.I choosen the "CLOSE" column data for representation because it can show the performance of company.
+ 5.I choosen the "CLOSE" column data for line graph representation because  "CLOSE" can show the performance of company.
  
  6.For comparative study I plotted the graphs of above 4 companies together in a single view.
    
  Question also said to compare the historical market price of last 2 year of any 2 company using two frame 
  -> for this I download the 2 year data of "WALMART" and "AMAZON" from "WWW>nasdaq.com"
-    and used it for further representation
+    and used it for further line graph representation.
