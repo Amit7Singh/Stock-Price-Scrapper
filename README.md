@@ -1,4 +1,4 @@
-# CsBda MiniProject
+# CsBda MiniProject Pre-Work
 
 PROBLEM STATEMENT
 1. Display the live market price of 4 different listed companies (of any exchange like NASDAQ, NSE etc) 
